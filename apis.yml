@@ -1,0 +1,52 @@
+aid: hill-international
+name: Hill International
+description: >-
+  Hill International is a global construction consulting firm founded in 1976
+  in Mt. Laurel, New Jersey, providing program, project, and construction
+  management, project management oversight, claims and dispute resolution,
+  estimating and cost management, facilities management, project monitoring,
+  troubled project turnaround, commissioning, and project labor agreement
+  consulting to public and private sector owners across more than 100 offices
+  in 42 countries. In December 2022 Hill agreed to be acquired by Global
+  Infrastructure Solutions, Inc. (GISI), the parent of STV, with the
+  take-private transaction closing in May 2023 — Hill now operates as a GISI
+  Consulting Group company alongside STV, GEI Consultants, LiRo-Hill, Layton
+  Construction, and the broader GISI portfolio. Hill International is a
+  professional services firm and does not publish a public developer API,
+  OpenAPI specification, SDKs, or any developer portal.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Construction
+  - Construction Management
+  - Project Management
+  - Program Management
+  - Consulting
+  - Claims And Disputes
+  - Infrastructure
+  - Engineering
+  - Acquired
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/hill-international/refs/heads/main/apis.yml
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.hillintl.com
+  - type: About
+    url: https://www.hillintl.com/about-us/
+  - type: Services
+    url: https://www.hillintl.com/services/
+  - type: News
+    url: https://www.hillintl.com/news/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hill-international
+  - type: Parent Company
+    url: https://gisi.com
+  - type: Sister Company
+    url: https://www.stvinc.com
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
