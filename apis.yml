@@ -15,7 +15,7 @@ description: >-
   professional services firm and does not publish a public developer API,
   OpenAPI specification, SDKs, or any developer portal.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Construction
   - Construction Management
