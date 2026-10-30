@@ -1,4 +1,4 @@
-# Hill International (hill-international)
+# Hill International
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,59 +66,78 @@
 
 Hill International is a global construction consulting firm founded in 1976 in Mt. Laurel, New Jersey, providing program, project, and construction management, project management oversight, claims and dispute resolution, estimating and cost management, facilities management, project monitoring, troubled project turnaround, commissioning, and project labor agreement consulting to public and private sector owners across more than 100 offices in 42 countries. In December 2022 Hill agreed to be acquired by Global Infrastructure Solutions, Inc. (GISI), the parent of STV, with the take-private transaction closing in May 2023 — Hill now operates as a GISI Consulting Group company alongside STV, GEI Consultants, LiRo-Hill, Layton Construction, and the broader GISI portfolio. Hill International is a professional services firm and does not publish a public developer API, OpenAPI specification, SDKs, or any developer portal.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/hill-international/refs/heads/main/apis.yml)
+**Areas:** Construction · Construction Management · Project Management · Program Management · Consulting · Claims And Disputes · Infrastructure · Engineering · Acquired
 
-## Scope
+## Hill International on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Hill International is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hill-international/](https://apis.io/providers/hill-international/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### Published properties
 
- - Construction, Construction Management, Project Management, Program Management, Consulting, Claims And Disputes, Infrastructure, Engineering, Acquired
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-05-23
-- **Modified:** 2026-05-23
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Hill International Domain Security](https://apis.io/security/hill-international/hill-international-domain-security/)
 
-No public APIs are documented for Hill International. The firm delivers program, project, and construction management consulting through professional engagements rather than a developer-facing API surface, and there is no developer portal, OpenAPI specification, SDK, CLI, or GitHub organization to profile. Hill was acquired by Global Infrastructure Solutions, Inc. (GISI) in May 2023 and now operates inside the GISI Consulting Group alongside STV.
+## Where to find this API
 
-## Service Lines
-
-- Construction Management
-- Project Management
-- Program Management
-- Project Management Oversight (PMO)
-- Hill Advisory
-- Estimating & Cost Management
-- Facilities Management
-- Project Monitoring
-- Troubled Project Turnaround
-- Commissioning
-- Project Labor Agreement (PLA) Consulting
-
-## Ownership
-
-- **Parent:** Global Infrastructure Solutions, Inc. (GISI) — founded 2016, ~$1B annual revenue across the portfolio
-- **Acquired:** May 2023 (take-private transaction announced December 2022)
-- **Sister companies:** STV, GEI Consultants, LiRo-Hill, Layton Construction
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.hillintl.com)
-- [About](https://www.hillintl.com/about-us/)
-- [Services](https://www.hillintl.com/services/)
-- [News](https://www.hillintl.com/news/)
-- [LinkedIn](https://www.linkedin.com/company/hill-international)
-- [Parent Company](https://gisi.com)
-- [Sister Company](https://www.stvinc.com)
+- [Blog](https://www.hillintl.com/feed/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 4.0** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hill-international/](https://apis.io/providers/hill-international/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hill International: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hill-international/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
